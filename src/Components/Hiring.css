@@ -1,0 +1,12 @@
+.hiring{
+    width: 400;
+    height: 50px;
+    background-color:black;
+    color: white;
+}
+
+.hiringp{
+    position:relative;
+    margin-top:10px;
+    height: 40px;
+}

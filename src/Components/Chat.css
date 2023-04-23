@@ -1,0 +1,24 @@
+.bt{
+    height: 45px;
+    width: 150px;
+    border-radius: 8px;
+    background-color: brown;
+    margin-left: 800px;
+    margin-bottom:10px;
+    background-color: aliceblue;
+}
+
+.btn button{
+    border-radius: 8px;
+    border-style: none;
+}
+
+.show{
+    width: 100px;
+    height: 100px;
+}
+
+.chat{
+    height:200px;
+    width: 200px;
+}

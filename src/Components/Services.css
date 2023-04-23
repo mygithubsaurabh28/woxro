@@ -1,0 +1,61 @@
+.ser{
+    height:500px;
+    margin-top:78px;
+    background-color:white;
+    
+}
+
+.head{
+    text-align: center;
+    color: slategray;
+}
+
+.para p{
+    font-size:40px;
+    text-align: center;
+}
+
+.container{
+    height: 400px;
+    background-color:white;
+    display: flex;
+}
+
+.ek{
+    height:250px;
+    width:250px;
+    z-index:9;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color:skyblue;
+    overflow-wrap: normal;
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+.two{
+    height:250px;
+    width:200px;
+    position: absolute;
+    margin-top:30px;
+    margin-left: 10px;
+    margin-left:400px;
+    overflow-wrap: normal;
+    background-color:lightgray;
+}
+
+.two p{
+    margin-top: 5px;
+}
+
+.three{
+    height:250px;
+    width:250px;
+    position: absolute;
+    margin-top:30px;
+    margin-right:-3px;
+    margin-left:700px;
+    background-color: lightslategray;
+
+}
